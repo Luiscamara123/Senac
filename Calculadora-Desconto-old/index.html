@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Descontos</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <main>
+        <h1>Calculadora de Descontos</h1>
+        <input type="number" id="valor" placeholder="Digite o Valor">
+        <select id="formaPagamento">
+            <option>Forma de pagamento</option>
+            <option value="avista">À vista (dinheiro ou pix) - 10% de desconto</option>
+            <option value="cartao">Cartão de crédito - sem desconto</option>
+            <option value="2x">Parcelado em 2x - acréscimo de 5%</option>
+            <option value="3xoumais">Parcelado em 3x ou mais - acréscimo de 10%</option>
+        </select>
+        <button id="calcular">Calcular valor final </button>
+        <div id="resultado"></div>
+    </main>
+    <script src="./js/script.js"></script>
+</body>
+</html>
