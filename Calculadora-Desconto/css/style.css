@@ -53,3 +53,9 @@ select{
 .laranja {
     color: orange;
 }
+
+@media screen and (max-width: 768px){
+    main{
+        width: 70%;
+    }
+}

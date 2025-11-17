@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Formulário Metas</title>
+</head>
+<body>
+    <header>
+        <h1>Painel de metas diárias</h1>
+    </header>
+    <main>
+        <form>
+            <input type="text" placeholder="Título da meta" required>
+            <textarea placeholder="Descrição"></textarea>
+            <select>
+                <option>Baixa</option>
+                <option>Média</option>
+                <option>Alta</option>
+            </select>
+            <input type="date" required>
+            <button type="submit">Adicionar</button>
+            <div class="erro"></div>
+        </form>
+        <section id="lista">
+            <h2>Metas adicionadas</h2>
+            <ul id="lista-metas">
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <span>Luís Câmara</span>
+        <span>14/11/2025</span>
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
