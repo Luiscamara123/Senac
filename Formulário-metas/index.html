@@ -11,22 +11,23 @@
         <h1>Painel de metas diárias</h1>
     </header>
     <main>
-        <form>
-            <input type="text" placeholder="Título da meta" required>
-            <textarea placeholder="Descrição"></textarea>
-            <select>
-                <option>Baixa</option>
-                <option>Média</option>
-                <option>Alta</option>
-            </select>
-            <input type="date" required>
-            <button type="submit">Adicionar</button>
-            <div class="erro"></div>
-        </form>
+        <section class="container">
+            <form id="formulario">
+                <input id="titulo" type="text" placeholder="Título da meta" required>
+                <textarea id="descricao" placeholder="Descrição"></textarea>
+                <select id="prioridade">
+                    <option value="baixa">Baixa</option>
+                    <option value="media">Média</option>
+                    <option value="alta">Alta</option>
+                </select>
+                <input id="data" type="date" required>
+                <button id="btn-adicionar" type="submit">Adicionar</button>
+            </form>
+            <div id="erro"></div>
+        </section>
         <section id="lista">
             <h2>Metas adicionadas</h2>
-            <ul id="lista-metas">
-            </ul>
+            <ul id="lista-metas"></ul>
         </section>
     </main>
     <footer>
