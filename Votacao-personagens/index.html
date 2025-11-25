@@ -12,16 +12,18 @@
     </header>
     <main>
         <section class="container">
-            <select>
-                <option>Personagens</option>
-                <option>Eleven</option>
-                <option>Mike</option>
-                <option>Dustin</option>
-                <option>Lucas</option>
-                <option>Max</option>
-                <option>Will</option>
-            </select>
-            <button type="submit">Votar</button>
+           <form id="formulario">
+                <select id="personagens">
+                    <option>selecione</option>
+                    <option value="Eleven">Eleven</option>
+                    <option value="Mike">Mike</option>
+                    <option value="Dustin">Dustin</option>
+                    <option value="Lucas">Lucas</option>
+                    <option value="Max">Max</option>
+                    <option value="Will">Will</option>
+                </select>
+            </form>
+            <button id="votar">Votar</button>
             <div class="erro"></div>
         </section>
         <section id="ranking">
