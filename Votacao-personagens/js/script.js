@@ -47,3 +47,4 @@ function atualizarRanking() {
     });
 };
 botao.addEventListener("click", votar);
+
