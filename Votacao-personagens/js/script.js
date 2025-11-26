@@ -1,7 +1,7 @@
 const form = document.querySelector('#formulario');
-const erro = document.querySelector('#erro');
+const erro = document.querySelector('.erro');
 const personagens = document.querySelector('#personagens');
-const ranking = document.querySelector('#ranking');
+const ranking = document.querySelector('#lista-ranking');
 const botao = document.querySelector('#votar');
 
 const votos = {
@@ -10,7 +10,17 @@ const votos = {
     "Dustin": 0,
     "Lucas": 0,
     "Max": 0,
-    "Will": 0
+    "Will": 0,
+    "Vecna": 0,
+    "Eddie": 0,
+    "Steve": 0,
+    "Nancy": 0,
+    "Jonathan": 0,
+    "Hopper": 0,
+    "Joyce": 0,
+    "Demogorgon": 0,
+    "Robin": 0,
+    "Argyle": 0
 }
 
 function votar(e) {
@@ -37,7 +47,7 @@ function atualizarRanking() {
 
     rankingOrdenado.forEach(personagem => {
     const li = document.createElement(`li`);
-    li.textContent = `${personagem[0]} - ${personagem[1]} votos(s)`;
+    li.textContent = `${personagem[0]} - ${personagem[1]} votos`;
 
     if (personagem[1] === maiorVoto && maiorVoto !== 0) {
         li.classList.add(`lider`);

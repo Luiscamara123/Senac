@@ -10,7 +10,7 @@ body{
 }
 header h1{
     font-size: 50px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     padding: 30px;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ button:hover{
     background-color: rgba(4, 14, 102, 0.518);
 }
 select{
-    padding: 10px 30px;
+    padding: 15px 30px;
     background-color: #590000;
     color: white;
     border: none;
@@ -53,10 +53,33 @@ select:hover{
 option{
     background-color: rgb(0, 1, 37);
 }
-#ranking{
+#ranking {
     background-color: aliceblue;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.468);
+    border: 2px solid rgba(255, 255, 255, 0.712);
+    border-radius: 15px;
+    width: 25%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+}
+li{
+    color: white;
+    list-style: none;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgb(255, 0, 0);
+}
+.lider{
+    color: red;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgb(28, 25, 223);
 }
 footer{
     background-color: rgba(0, 0, 0, 0.485);
@@ -87,6 +110,12 @@ footer{
         gap: 8px;
     }
 
+    #ranking{
+        padding: 15px;
+        width: 75%;
+        margin-bottom: 200px;
+    }
+
     button{
         padding: 10px 100px;
     }
@@ -94,5 +123,13 @@ footer{
     select{
         text-align: center;
         padding: 10px 65px;
+    }
+
+    li{
+        font-size: 20px;
+    }
+
+    .lider{
+        font-size: 25px;
     }
 }
