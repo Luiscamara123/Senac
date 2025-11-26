@@ -7,6 +7,7 @@ body{
     background-attachment: fixed;
 }
 header h1{
+    margin-top: 200px;
     color: rgb(123, 0, 0);
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -56,4 +57,21 @@ footer{
     align-items: center;
     position: fixed;
     bottom: 0;
+}
+@media screen and (max-width: 768px) {
+    header h1{
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    form select{
+    border: none;
+    padding: 8px;
+    width: 100px;
+    background-color: rgb(251, 227, 227);
+    }
+    
+    form{
+        width: 60%;
+    }
 }
