@@ -32,7 +32,7 @@ function votar(e) {
 function atualizarRanking() {
     ranking.innerHTML = "";
 
-    const rankingOrdenado = object.entries(votos).sort((a, b) =>  b[1] - a[1]);
+    const rankingOrdenado = Object.entries(votos).sort((a, b) =>  b[1] - a[1]);
     const maiorVoto = rankingOrdenado[0][1];
 
     rankingOrdenado.forEach(personagem => {
