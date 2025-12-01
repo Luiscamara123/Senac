@@ -1,3 +1,35 @@
+/*JavaScript
+    No arquivo script.js, vocês devem:
+        1. Capturar os elementos do formulário usando document.querySelector.
+        2. Criar uma função adicionarMeta():
+            Dentro da função vocês devem
+            Validar se o input, o text area e a prioridade não estão vazios
+                Se os campos estiverem vazios, retorna um erro para o usuário com a mensagem:
+                    "Digite um título válido" ou
+                    "Digite uma descrição válida" ou
+                    "Selecione uma prioridade válida" ou
+                    "Selecione uma data válida"
+                A data não pode ser anterior ao dia atual.
+                Cria um elemento <li> para cada meta adicionada contendo:
+                    O texto da meta
+                    A descrição da meta
+                    A prioridade
+                    A data escolhida
+                    Botão “Concluir” e Botão “Remover”
+                    Aplica uma classe correspondente à prioridade
+                    Adiciona a <li> dentro da lista de metas
+            2.1. Criar interação com os botões dentro de cada meta:
+                Botão “Concluir” deve adicionar uma classe que muda o estilo do item
+                Botão “Remover” deve apagar o item da lista
+            2.2. Limpar o formulário após adicionar a meta.
+        3. Adicionar eventos escutadores (addEventListener) nos botões e inputs.
+
+5) Regras adicionais
+    Se o usuário tentar adicionar uma meta vazia, mostrar um erro na tela.
+    Ao marcar como concluída, o botão deve mudar o texto para “Desfazer” e voltar ao normal se clicar novamente.
+    Usem apenas manipulação de classes. Sem style inline ou style dentro do HTML, vamos utilizar apenas CSS e JS externos.
+    Criem pelo menos uma pequena animação de transição para quando as metas entram ou saem da lista.*/
+
 const form = document.querySelector('#formulario');
 const campoTitulo = form.querySelector('#titulo');
 const campoDescricao = form.querySelector('#descricao');
