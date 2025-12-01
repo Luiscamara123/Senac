@@ -1,3 +1,17 @@
+/*JavaScript
+    No arquivo script.js:
+        Capture os elementos HTML com document.querySelector.
+        Crie uma função chamada calcularValorFinal().
+        Dentro dela:
+            Pegue o valor digitado no input e a opção escolhida no select.
+            Verifique:
+                - Se for "À vista" → aplique 10% de desconto (preco * 0.9)
+                - Se for "Cartão de crédito" → valor sem alteração
+                - Se for "2x" → aplique 5% de acréscimo (preco * 1.05)
+                - Se for "3x ou mais" → aplique 10% de acréscimo (preco * 1.10)
+            Exiba o resultado formatado na div #resultado com innerHTML.
+        Adicione um event listener no botão para chamar a função ao clicar.*/
+
 document.querySelector("#calcular").addEventListener("click", calcularValorFinal);
 
 function calcularValorFinal () {
