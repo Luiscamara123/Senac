@@ -40,3 +40,23 @@ No GitHub Desktop:​
   No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório 
 
 https://github.com/Luiscamara123/Senac.git
+
+---
+## 💪 Melhorias futuras
+
+- implementar banco de dados
+- Organização na estrutura de códigos
+- Funções com a Linguagem JavaScrpit
+
+---
+## 👨🏻‍💼 O que eu aprendi?
+
+- Responsividade com CSS
+- Estrutura e validação de códigos com JavaScript
+
+---
+## 🖌️ Autor
+
+**Luís Felipe Câmara Alcântara**
+
+Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
