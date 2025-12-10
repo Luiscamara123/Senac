@@ -1,11 +1,11 @@
-# 🧮Calculadora Desconto
+# 🍪Projeto Pedidos
 
-O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto 
+O objetivo do projeto é permitir que o usuário monte sua refeição selecionando pratos e bebidas. Em seguida, poderá escolher adicionais extras de sua preferência. Por fim, o sistema realizará o cálculo do valor total do pedido.
 
 ---
 ## ⚙️Funcionalidades
 
-- Adiciona Desconto ou Juros
+- Calcular pedido 
 - Validação de campos
 - Layout responsivo
 
@@ -28,7 +28,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Calculadora-Desconto/
+  https://luiscamara123.github.io/Senac/Projto-pedidos/
 
 ---
 ## 🧬Como clonar o projeto​
@@ -46,6 +46,7 @@ https://github.com/Luiscamara123/Senac.git
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
+- Aprimoramento de validações com JavaScrpit
 
 ---
 ## 👨🏻‍💼 O que eu aprendi?
@@ -59,6 +60,3 @@ https://github.com/Luiscamara123/Senac.git
 **Luís Felipe Câmara Alcântara**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
-
-
-

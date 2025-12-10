@@ -1,11 +1,13 @@
-# 🧮Calculadora Desconto
+# 🎯 Projeto - Formulário metas
 
-O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto 
+O Objetivo do projeto é adicionar uma meta com uma descrição e determinar a sua prioridade sendo elas (baixa, alta e média), com um input do type "Date" para adicionar um prazo de realização da meta prevista, após o preenchimento do formulário aparecera um campo que vai imprimir as informações listadas anteriormente, e com o surgimento de 3 botões (confirmar, voltar e cancelar) para suas funções designadas.
 
 ---
 ## ⚙️Funcionalidades
 
-- Adiciona Desconto ou Juros
+- Adiciona Metas
+- Remove Metas
+- Marcar como concluída
 - Validação de campos
 - Layout responsivo
 
@@ -19,16 +21,14 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 - Git e GitHub
 
 ---
-##  💿Como rodar o projeto​?
+##  🛞Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
-
 2 Extraia a pasta​
-
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Calculadora-Desconto/
+  https://luiscamara123.github.io/Senac/Formul%C3%A1rio-metas/
 
 ---
 ## 🧬Como clonar o projeto​
@@ -42,15 +42,16 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## 🏆 Melhorias futuras
+## 💪 Melhorias futuras
 
+- implementar banco de dados
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 
 ---
 ## 👨🏻‍💼 O que eu aprendi?
 
-- Responsividade e layout com CSS
+- Responsividade com CSS
 - Estrutura e validação de códigos com JavaScript
 
 ---
@@ -59,6 +60,3 @@ https://github.com/Luiscamara123/Senac.git
 **Luís Felipe Câmara Alcântara**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
-
-
-

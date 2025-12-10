@@ -1,11 +1,11 @@
-# 🧮Calculadora Desconto
+# 🧟 Votação Personagem
 
-O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto 
+O objetivo do projeto é permitir que o usuário selecione um personagem de sua preferência e registre quantos votos desejar. O personagem mais votado será exibido em destaque.
 
 ---
 ## ⚙️Funcionalidades
 
-- Adiciona Desconto ou Juros
+- Votar No Personagem de sua preferência
 - Validação de campos
 - Layout responsivo
 
@@ -28,7 +28,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Calculadora-Desconto/
+  https://luiscamara123.github.io/Senac/Votacao-personagens/
 
 ---
 ## 🧬Como clonar o projeto​
@@ -46,6 +46,7 @@ https://github.com/Luiscamara123/Senac.git
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
+- Aprimoramento de validações com JavaScrpit
 
 ---
 ## 👨🏻‍💼 O que eu aprendi?
@@ -59,6 +60,4 @@ https://github.com/Luiscamara123/Senac.git
 **Luís Felipe Câmara Alcântara**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
-
-
 
