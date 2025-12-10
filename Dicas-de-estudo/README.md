@@ -1,6 +1,8 @@
 # 📚Dicas de estudo
 
-O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após apertar no botão gerar nova dica 
+O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após apertar no botão gerar nova dica.
+
+![Prévia do Projeto](../Img/Dicas-estudo.png)
 
 ---
 ## ⚙️Funcionalidades

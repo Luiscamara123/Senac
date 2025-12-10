@@ -2,6 +2,8 @@
 
 O objetivo do projeto é permitir que o usuário monte sua refeição selecionando pratos e bebidas. Em seguida, poderá escolher adicionais extras de sua preferência. Por fim, o sistema realizará o cálculo do valor total do pedido.
 
+![Prévia do Projeto](../Img/Projeto-Pedidos.png)
+
 ---
 ## ⚙️Funcionalidades
 

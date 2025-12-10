@@ -2,6 +2,8 @@
 
 O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 
+![Prévia do Projeto](../Img/Painel-Frases.png)
+
 ---
 ## ⚙️Funcionalidades
 
