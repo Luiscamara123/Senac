@@ -2,6 +2,8 @@
 
 O objetivo do projeto é permitir que o usuário selecione um personagem de sua preferência e registre quantos votos desejar. O personagem mais votado será exibido em destaque.
 
+![Prévia do Projeto](../Img/Projeto-Votacao.png)
+
 ---
 ## ⚙️Funcionalidades
 
