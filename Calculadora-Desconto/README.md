@@ -1,6 +1,8 @@
 # 🧮Calculadora Desconto
 
-O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto 
+O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto.
+
+![Prévia do Projeto](../Img/Calculadora-desconto.png)
 
 ---
 ## ⚙️Funcionalidades
