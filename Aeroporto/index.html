@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viagem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Aeroporto</h1>
+        <!-- <span class="divider"></span> -->
+        <form id="form-viagem">
+            <label>Nome do Passageiro</label>
+            <input type="text" id="nome" placeholder="Digite o nome passageiro" required>
+            <label>Data da Viagem</label>
+            <input type="date" id="data" required>
+            <label>Destino</label>
+            <input type="text" id="destino" placeholder="Digite o destino da viagem" required>
+            <button type="submit">Reservar</button>
+        </form>
+        <div id="lista"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
