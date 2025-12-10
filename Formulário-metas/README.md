@@ -2,7 +2,7 @@
 
 O Objetivo do projeto é adicionar uma meta com uma descrição e determinar a sua prioridade sendo elas (baixa, alta e média), com um input do type "Date" para adicionar um prazo de realização da meta prevista, após o preenchimento do formulário aparecera um campo que vai imprimir as informações listadas anteriormente, e com o surgimento de 3 botões (confirmar, voltar e cancelar) para suas funções designadas.
 
-![Prévia do Projeto](../Img/Painel-Frases.png)
+![Prévia do Projeto](../Img/Painel-metas.png)
 
 ---
 ## ⚙️Funcionalidades
