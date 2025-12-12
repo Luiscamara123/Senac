@@ -30,7 +30,7 @@ O objetivo do projeto é permitir que o usuário selecione um personagem de sua 
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Votacao-personagens/
+  [https://luiscamara123.github.io/Senac/Votacao-personagens/](https://luiscamara123.github.io/Senac/Front-end/Votacao-personagens/)
 
 ---
 ## 🧬Como clonar o projeto​
