@@ -30,7 +30,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Calculadora-Desconto/
+  https://luiscamara123.github.io/Senac/Front-end/Calculadora-Desconto/
 
 ---
 ## 🧬Como clonar o projeto​
