@@ -30,7 +30,7 @@ O objetivo do projeto é permitir que o usuário monte sua refeição selecionan
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Projto-pedidos/
+  https://luiscamara123.github.io/Senac/Front-end/Projto-pedidos/
 
 ---
 ## 🧬Como clonar o projeto​
