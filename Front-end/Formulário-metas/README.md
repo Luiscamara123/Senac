@@ -30,7 +30,7 @@ O Objetivo do projeto é adicionar uma meta com uma descrição e determinar a s
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Formul%C3%A1rio-metas/
+  https://luiscamara123.github.io/Senac/Front-end/Formul%C3%A1rio-metas/
 
 ---
 ## 🧬Como clonar o projeto​

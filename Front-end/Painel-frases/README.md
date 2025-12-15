@@ -30,7 +30,7 @@ O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Painel-frases/
+  https://luiscamara123.github.io/Senac/Front-end/Painel-frases/
 
 ---
 ## 🧬Como clonar o projeto​

@@ -1,18 +1,18 @@
-# 🧟 Votação Personagem
+# 🟢 Aeroporto
 
-O objetivo do projeto é permitir que o usuário selecione um personagem de sua preferência e registre quantos votos desejar. O personagem mais votado será exibido em destaque.
+O objetivo do projeto é permitir a inserção do nome do passageiro, da data da viagem e do destino. Após o preenchimento dessas informações, o usuário deverá clicar no botão ‘Reservar.
 
-![Prévia do Projeto](../Img/Projeto-Votacao.png)
+![Prévia do Projeto](../Img/Aeroporto.png)
 
 ---
-## ⚙️Funcionalidades
+## 🟢 Funcionalidades
 
-- Votar No Personagem de sua preferência
+- Adiciona em forma de card o dia da viagem
 - Validação de campos
 - Layout responsivo
 
 ---
-## 🌐 Tecnologias Utilizadas
+## 🟢 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ O objetivo do projeto é permitir que o usuário selecione um personagem de sua 
 - Git e GitHub
 
 ---
-##  💿Como rodar o projeto​?
+## 🟢 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -30,10 +30,10 @@ O objetivo do projeto é permitir que o usuário selecione um personagem de sua 
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-https://luiscamara123.github.io/Senac/Front-end/Votacao-personagens/
+  https://luiscamara123.github.io/Senac/Front-end/Aeroporto/
 
 ---
-## 🧬Como clonar o projeto​
+## 🟢 Como clonar o projeto​
 
 **No terminal do VS Code digite:​**
   git clone https://github.com/Luiscamara123/Senac.git
@@ -44,22 +44,24 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## 🏆 Melhorias futuras
+## 🟢 Melhorias futuras
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
-- Aprimoramento de validações com JavaScrpit
+- Banco de Dados
 
 ---
-## 👨🏻‍💼 O que eu aprendi?
+## 🟢 O que eu aprendi?
 
 - Responsividade e layout com CSS
 - Estrutura e validação de códigos com JavaScript
 
 ---
-## 🖌️ Autor
+## 🟢 Autor
 
 **Luís Felipe Câmara Alcântara**
 
 Turma de Tecnologia em Informática para internet (Vespertino) - Senac DF
+
+
 

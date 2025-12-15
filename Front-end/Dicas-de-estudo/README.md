@@ -30,7 +30,7 @@ O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após a
 3 Abra o arquivo index.html no navegador​
 
 ## Acesse o projeto online
-  https://luiscamara123.github.io/Senac/Dicas-de-estudo/
+  https://luiscamara123.github.io/Senac/Front-end/Dicas-de-estudo/
 
 ---
 ## 🧬Como clonar o projeto​
