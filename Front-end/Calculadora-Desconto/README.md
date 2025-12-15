@@ -1,18 +1,18 @@
-# 🧮Calculadora Desconto
+# 🔵 Calculadora Desconto
 
 O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar a opção de pagamento que respectivamente adicionara juros ou desconto.
 
 ![Prévia do Projeto](../Img/Calculadora-desconto.png)
 
 ---
-## ⚙️Funcionalidades
+## 🔵 Funcionalidades
 
 - Adiciona Desconto ou Juros
 - Validação de campos
 - Layout responsivo
 
 ---
-## 🌐 Tecnologias Utilizadas
+## 🔵 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
 - Git e GitHub
 
 ---
-##  💿Como rodar o projeto​?
+## 🔵 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -33,7 +33,7 @@ O objetivo do projeto é adicionar um valor no input do type="Date" e adicionar 
   https://luiscamara123.github.io/Senac/Front-end/Calculadora-Desconto/
 
 ---
-## 🧬Como clonar o projeto​
+## 🔵 Como clonar o projeto​
 
 **No terminal do VS Code digite:​**
   git clone https://github.com/Luiscamara123/Senac.git
@@ -44,19 +44,19 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## 🏆 Melhorias futuras
+## 🔵 Melhorias futuras
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 
 ---
-## 👨🏻‍💼 O que eu aprendi?
+## 🔵 O que eu aprendi?
 
 - Responsividade e layout com CSS
 - Estrutura e validação de códigos com JavaScript
 
 ---
-## 🖌️ Autor
+## 🔵 Autor
 
 **Luís Felipe Câmara Alcântara**
 
