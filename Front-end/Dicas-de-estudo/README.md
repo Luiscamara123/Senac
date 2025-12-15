@@ -1,18 +1,18 @@
-# 📚Dicas de estudo
+# 🟢 Dicas de estudo
 
 O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após apertar no botão gerar nova dica.
 
 ![Prévia do Projeto](../Img/Dicas-estudo.png)
 
 ---
-## ⚙️Funcionalidades
+## 🟢 Funcionalidades
 
 - Gera dica de estudos
 - Validação de campos
 - Layout responsivo
 
 ---
-## 🌐 Tecnologias Utilizadas
+## 🟢 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após a
 - Git e GitHub
 
 ---
-##  💿Como rodar o projeto​?
+## 🟢 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -33,7 +33,7 @@ O objetivo do projeto é adicionar dicas estudo práticas e inteligentes após a
   https://luiscamara123.github.io/Senac/Front-end/Dicas-de-estudo/
 
 ---
-## 🧬Como clonar o projeto​
+## 🟢Como clonar o projeto​
 
 **No terminal do VS Code digite:​**
   git clone https://github.com/Luiscamara123/Senac.git
@@ -44,20 +44,20 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## 🏆 Melhorias futuras
+## 🟢 Melhorias futuras
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 - Aplicação de bancos de Dados
 
 ---
-## 👨🏻‍💼 O que eu aprendi?
+## 🟢 O que eu aprendi?
 
 - Responsividade e layout com CSS
 - Estrutura e validação de códigos com JavaScript
 
 ---
-## 🖌️ Autor
+## 🟢 Autor
 
 **Luís Felipe Câmara Alcântara**
 
