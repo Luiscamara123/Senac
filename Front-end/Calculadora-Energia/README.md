@@ -1,4 +1,4 @@
-# ⚪ Calculadora Desconto
+# ⚪ Calculadora Energia
 
 O objetivo do projeto é informar o seu consumo diario de energia, e adicionar o tipo de cliente que você é sendo (comercial, residencial e industrial) após isso aparecerá um calculo do seu consumo contendo o tipo de cliente, o consumo, o valor base, o acrescimo e o valor final.
 
