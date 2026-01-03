@@ -1,18 +1,18 @@
-# 📝Painel Frases
+# 🔘 Painel Frases
 
 O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 
 ![Prévia do Projeto](../Img/Painel-Frases.png)
 
 ---
-## ⚙️Funcionalidades
+## 🔘 Funcionalidades
 
 - Gera Frases Motivacionais
 - Validação de campos
 - Layout responsivo
 
 ---
-## 🌐 Tecnologias Utilizadas
+## 🔘 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ O objetivo do projeto é gerar frases motivacionais após apertar no botão.
 - Git e GitHub
 
 ---
-##  💿Como rodar o projeto​?
+##  🔘 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -33,7 +33,7 @@ O objetivo do projeto é gerar frases motivacionais após apertar no botão.
   https://luiscamara123.github.io/Senac/Front-end/Painel-frases/
 
 ---
-## 🧬Como clonar o projeto​
+## 🔘 Como clonar o projeto​
 
 **No terminal do VS Code digite:​**
   git clone https://github.com/Luiscamara123/Senac.git
@@ -44,19 +44,19 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## 🏆 Melhorias futuras
+## 🔘 Melhorias futuras
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 
 ---
-## 👨🏻‍💼 O que eu aprendi?
+## 🔘 O que eu aprendi?
 
 - Responsividade e layout com CSS
 - Estrutura e validação de códigos com JavaScript
 
 ---
-## 🖌️ Autor
+## 🔘 Autor
 
 **Luís Felipe Câmara Alcântara**
 
