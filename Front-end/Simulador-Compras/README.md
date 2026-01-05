@@ -9,7 +9,7 @@ Ao final do processo, o sistema apresenta o valor de cada parcela, bem como a da
 ---
 ## 🟣 Funcionalidades
 
-- Calcula o saque realizado
+- Calcula o Parcelamento da compra
 - Validação de campos
 - Layout responsivo
 
@@ -17,6 +17,7 @@ Ao final do processo, o sistema apresenta o valor de cada parcela, bem como a da
 ## 🟣 Tecnologias Utilizadas
 
 - HTML5
+- CSS
 - JavaScript (ES6+)
 - VS Code
 - Git e GitHub
@@ -50,7 +51,6 @@ https://github.com/Luiscamara123/Senac.git
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
 - Aplicação de bancos de Dados
-- Estilização CSS
 
 ---
 ## 🟣 O que eu aprendi?
