@@ -1,18 +1,20 @@
-# ⚫ Simulador Compras
+# 🟣 Simulador Compras
 
-O objetivo do projeto é .
+O objetivo do projeto é calcular o parcelamento de compras. Inicialmente, o sistema solicita o valor da compra e a quantidade de parcelas desejadas. Em seguida, é realizado o cálculo automático, dividindo o valor total da compra de acordo com o número de parcelas informado.
+
+Ao final do processo, o sistema apresenta o valor de cada parcela, bem como a data de vencimento correspondente a cada mês.
 
 ![Prévia do Projeto](../Img/Simulador-Compras.png)
 
 ---
-## ⚫ Funcionalidades
+## 🟣 Funcionalidades
 
 - Calcula o saque realizado
 - Validação de campos
 - Layout responsivo
 
 ---
-## ⚫ Tecnologias Utilizadas
+## 🟣 Tecnologias Utilizadas
 
 - HTML5
 - JavaScript (ES6+)
@@ -20,7 +22,7 @@ O objetivo do projeto é .
 - Git e GitHub
 
 ---
-## ⚫ Como rodar o projeto​?
+## 🟣 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -32,7 +34,7 @@ O objetivo do projeto é .
   https://luiscamara123.github.io/Senac/Front-end/Simulador-Compras/
 
 ---
-## ⚫ Como clonar o projeto​
+## 🟣 Como clonar o projeto​
 
 **No terminal do VS Code digite:​**
   git clone https://github.com/Luiscamara123/Senac.git
@@ -43,7 +45,7 @@ No GitHub Desktop:​
 https://github.com/Luiscamara123/Senac.git
 
 ---
-## ⚫ Melhorias futuras
+## 🟣 Melhorias futuras
 
 - Organização na estrutura de códigos
 - Funções com a Linguagem JavaScrpit
@@ -51,12 +53,12 @@ https://github.com/Luiscamara123/Senac.git
 - Estilização CSS
 
 ---
-## ⚫ O que eu aprendi?
+## 🟣 O que eu aprendi?
 
 - Estrutura e validação de códigos com JavaScript
 
 ---
-## ⚫ Autor
+## 🟣 Autor
 
 **Luís Felipe Câmara Alcântara**
 
